@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nderitunjau
 - 👀 I’m interested in Java,Kotlin,C# and PHP projects
-- 🌱 I’m currently learning .NET Framework
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project based on the above languages
 - 📫 How to reach me nderitunjau@gmail.com
 
